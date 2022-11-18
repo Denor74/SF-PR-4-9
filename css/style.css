@@ -1,0 +1,61 @@
+body {
+    color: #191919;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 14pt;
+}
+
+.indent-main {
+    padding: 0 10%;
+}
+
+.header-footer {
+    background-color: #efefef;
+    padding: 20px 30px;
+    text-align: right;
+}
+
+.hider-footer-otstup {
+    padding: 0 10%;
+}
+
+h1 {
+    text-align: center;
+}
+
+a {
+    color: #4096d5;
+    text-decoration: none;
+    font-style: italic;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:active {
+    color: #191919;
+}
+
+.header-footer a {
+    margin-left: 25px;
+}
+
+.footer {
+    margin-top: 60px;
+}
+
+hr {
+    height: 2px;
+    color: #191919;
+}
+
+.clear {
+    float: left;
+    /* Обтекание картинки текстом */
+    margin: 0 20px 20px 0;
+}
+
+.noclear {
+    clear: both;
+}
