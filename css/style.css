@@ -4,6 +4,7 @@ body {
     font-size: 14pt;
 }
 
+/*Отступы основного контента*/
 .indent-main {
     padding: 0 10%;
 }
@@ -21,7 +22,10 @@ body {
 h1 {
     text-align: center;
 }
-h2 {margin-top: 20px;}
+
+h2 {
+    margin-top: 20px;
+}
 
 a {
     color: #4096d5;
